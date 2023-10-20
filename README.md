@@ -1,8 +1,9 @@
 <div align="center">
   <p><b>Profile Views</b></p>
   <img src="https://profile-counter.glitch.me/artursniegowski/count.svg" />
-  ![](https://komarev.com/ghpvc/?username=artursniegowski)
 </div>
+
+![](https://komarev.com/ghpvc/?username=artursniegowski)
 
 <div align="center">
   <p><b👋 Hi, I’m @artursniegowski</b></p>
