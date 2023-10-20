@@ -1,7 +1,7 @@
 <h2 align="center"> 
   <br>
 <!--   <b>👋 Hi, I’m Artur Sniegowski</b> -->
-  <img src="https://readme-typing-svg.demolab.com?font=Raleway&size=32&duration=2800&pause=1800&color=000000&center=true&vCenter=true&width=940&lines=👋+Hi%2C+I'm+Artur+Sniegowski!" alt="👋 Hi, I’m Artur Sniegowski!" width="90%" align="middle"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Raleway&size=32&duration=2800&pause=2500&color=000000&center=true&vCenter=true&width=940&lines=👋+Hi%2C+I'm+Artur+Sniegowski!" alt="👋 Hi, I’m Artur Sniegowski!" width="90%" align="middle"/>
   <br>
 </h2>
 
