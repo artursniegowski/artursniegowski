@@ -11,7 +11,11 @@
   <p>📫 How to reach me https://www.linkedin.com/in/artur-sniegowski-17676532</p>
 </div>
 
-
+<br>
+  <h3> Skills </h3>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,nodejs,html,css,tailwind,js,react,redux,mongodb,mysql,postman" alt="skills logos" />
+<br>
+  
 <!---
 artursniegowski/artursniegowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
