@@ -1,3 +1,8 @@
+<div align="center">
+  <p><b>Profile Views</b></p>
+  <img src="https://profile-counter.glitch.me/artursniegowski/count.svg" />
+</div>
+
 - 👋 Hi, I’m @artursniegowski
 - 👀 I’m interested in Python, Back-End, Full Stack Web developemnet
 - 🌱 I’m currently learning everything I can find on Web / Back-End / Full Stack development
