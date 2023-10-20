@@ -1,6 +1,7 @@
 <div align="center">
   <p><b>Profile Views</b></p>
   <img src="https://profile-counter.glitch.me/artursniegowski/count.svg" />
+  ![](https://komarev.com/ghpvc/?username=artursniegowski)
 </div>
 
 <div align="center">
