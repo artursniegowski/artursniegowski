@@ -3,11 +3,13 @@
   <img src="https://profile-counter.glitch.me/artursniegowski/count.svg" />
 </div>
 
-- 👋 Hi, I’m @artursniegowski
-- 👀 I’m interested in Python, Back-End, Full Stack Web developemnet
-- 🌱 I’m currently learning everything I can find on Web / Back-End / Full Stack development
-- 💞️ I’m looking to collaborate on Python / Back-End / Full Stack projects
-- 📫 How to reach me https://www.linkedin.com/in/artur-sniegowski-17676532
+<div align="center">
+  <p><b👋 Hi, I’m @artursniegowski</b></p>
+  <p>👀 I’m interested in Python, Back-End, Full Stack Web developemnet</p>
+  <p>🌱 I’m currently learning everything I can find on Web / Back-End / Full Stack development</p>
+  <p>💞️ I’m looking to collaborate on Python / Back-End / Full Stack projects</p>
+  <p>📫 How to reach me https://www.linkedin.com/in/artur-sniegowski-17676532</p>
+</div>
 
 
 <!---
