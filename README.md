@@ -1,7 +1,7 @@
 <div align="center">
   <p><b>Profile Views</b></p>
-  <img src="https://komarev.com/ghpvc/?username=artursniegowski" />
-<!--   <img src="https://profile-counter.glitch.me/artursniegowski/count.svg" /> -->
+<!--   <img src="https://komarev.com/ghpvc/?username=artursniegowski&style=flat-square" /> -->
+  <img src="https://profile-counter.glitch.me/artursniegowski/count.svg" />
 </div>
 
 
