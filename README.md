@@ -26,9 +26,11 @@
   <br>
 </div>
 
+theme=dark#gh-dark-mode-only
+
 <div align="center">
   <a href="https://github.com/artursniegowski/Mastering_Python_through_Projects">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=artursniegowski&show_owner=False&theme=dark&repo=Mastering_Python_through_Projects" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=artursniegowski&show_owner=False&theme=transparent&repo=Mastering_Python_through_Projects" />
   </a>
   <a href="https://github.com/artursniegowski/FUN_PYTHON_PROJECTS">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=artursniegowski&show_owner=False&theme=dark&repo=FUN_PYTHON_PROJECTS" />
