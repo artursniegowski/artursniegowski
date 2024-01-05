@@ -26,31 +26,52 @@
   <br>
 </div>
 
+
+
+
+
 <div align="center">
-  <a href="https://github.com/artursniegowski/Mastering_Python_through_Projects">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=artursniegowski&show_owner=False&theme=transparent&repo=Mastering_Python_through_Projects" />
-  </a>
-  <a href="https://github.com/artursniegowski/FUN_PYTHON_PROJECTS">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=artursniegowski&show_owner=False&theme=transparent&repo=FUN_PYTHON_PROJECTS" />
-  </a>
   <a href="https://github.com/artursniegowski/Mastering_Django_through_Projects">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=artursniegowski&show_owner=False&theme=transparent&repo=Mastering_Django_through_Projects" />
-  </a>
-  <a href="https://github.com/artursniegowski/Mastering_React.js_through_Projects">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=artursniegowski&show_owner=False&theme=transparent&repo=Mastering_React.js_through_Projects" />
   </a>
   <a href="https://github.com/artursniegowski/Python_Flask_Projects">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=artursniegowski&show_owner=False&theme=transparent&repo=Python_Flask_Projects" />
   </a>
+
+
+  <br>
+  <br>
+  
+  <a href="https://github.com/artursniegowski/Mastering_Python_through_Projects">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=artursniegowski&show_owner=False&theme=transparent&repo=Mastering_Python_through_Projects" />
+  </a>
+  <a href="https://github.com/artursniegowski/Mastering_React.js_through_Projects">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=artursniegowski&show_owner=False&theme=transparent&repo=Mastering_React.js_through_Projects" />
+  </a>
+
+  <br>
+  <br>
+  
+  <a href="https://github.com/artursniegowski/FUN_PYTHON_PROJECTS">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=artursniegowski&show_owner=False&theme=transparent&repo=FUN_PYTHON_PROJECTS" />
+  </a>
   <a href="https://github.com/artursniegowski/Intro_to_WEB3_DApps_with_Internet_Computer">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=artursniegowski&show_owner=False&theme=transparent&repo=Intro_to_WEB3_DApps_with_Internet_Computer" />
   </a>
+
+  <br>
+  <br>
+  
   <a href="https://github.com/artursniegowski/JavaScript_DOM_MANIPULATION">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=artursniegowski&show_owner=False&theme=transparent&repo=JavaScript_DOM_MANIPULATION" />
   </a>
   <a href="https://github.com/artursniegowski/Intro_to_HTML_CSS">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=artursniegowski&show_owner=False&theme=transparent&repo=Intro_to_HTML_CSS" />
   </a>
+
+  <br>
+  <br>
+  
   <a href="https://github.com/artursniegowski/Mastering_Web_Development_with_Express.js">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=artursniegowski&show_owner=False&theme=transparent&repo=Mastering_Web_Development_with_Express.js" />
   </a>
